@@ -3,6 +3,7 @@
   height: 100px;
   position: relative;
   width: 100px;
+  border-radius: 50%;
 }
 .face {
   font-family: "courier new", serif;
@@ -17,9 +18,8 @@
 h1 {
   background-color: blue;
 }
-  
- 
 
-  .page{
-      display: flex;
-    justify-content: flex-end;}
+.page {
+  display: flex;
+  justify-content: flex-end;
+}
