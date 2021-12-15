@@ -17,3 +17,9 @@
 h1 {
   background-color: blue;
 }
+  
+ 
+
+  .page{
+      display: flex;
+    justify-content: flex-end;}
